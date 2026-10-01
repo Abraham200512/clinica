@@ -199,7 +199,7 @@ function Login() {
             onClick={() => { setIsRegistering(!isRegistering); setErrorMsg(""); setSuccessMsg(""); }}
             style={styles.switchButton}
           >
-            {isRegistering ? "Inicia Sesión" : "Regístrate ahora"}
+            {isRegistering ? "Inicia Sesión" : "Regístrate"}
           </button>
         </div>
 
