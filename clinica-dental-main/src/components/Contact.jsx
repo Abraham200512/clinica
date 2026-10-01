@@ -47,7 +47,7 @@ function Contact() {
           </div>
           <div style={styles.infoItem}>
             <span style={styles.icon}>📞</span>
-            <p style={styles.infoText}>55 1234 5678</p>
+            <p style={styles.infoText}>55 1234 7890</p>
           </div>
           <div style={styles.infoItem}>
             <span style={styles.icon}>📧</span>
